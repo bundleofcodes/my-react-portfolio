@@ -10,7 +10,7 @@ function Topbar() {
         <div className="topbar">
             <div className="wrapper">
                 <div className="left">
-                    <a href="#about" className="logo">Raiya Y</a>
+                    <a href="#about" className="logo">Raiya Y.</a>
                     <div className="itemContainer">
                         <ul>
                             <li><a href="https://github.com/bundleofcodes" target="_blank" rel="noreferrer"><GitHubIcon className="icon"></GitHubIcon></a></li>

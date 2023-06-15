@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './app.scss';
 // import Navigation from './components/Navigation';
 import Topbar from "./components/Topbar/Topbar";
-import About from "./components/About";
+import About from "./components/About/About.jsx";
 import Resume from './components/Resume/Resume';
 import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact';

@@ -3,8 +3,7 @@
 # my-react-portfolio
 
 ## Description
-
-
+A simple Portfolio template for developer/designers built with React, which is used to showcase my work, testimonials and other information to clients and potential employers. Now that I've worked with React and have multiple projects to share, I've updated my portfolio to reflect the newly learned technologies.
 
 
 ## Table of Contents
@@ -19,27 +18,21 @@
 - [Questions](#questions)
 
 ## Technologies:
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Moment.js
-- Insomnia
+- React.js
+- Sass
+- Material-UI Core & Icons
+- GitHub pages
+- ityped
 
 ## Installation:
 - Fork and clone repository to local machine
 - Open integrated terminal in personal IDE
-- Run `npm i` to install dependencies in local projecrt directory
-
-
+- Run `npm install` to install dependencies in local projecrt directory
 
 ## Usage:
 
 - Open integrated terminal in personal IDE.
 - Run `npm run start` to start server on local port.
-- Test endpoints in API tester such as Insomnia.
-
-- [Click here to view the deployed walkthrough video on Screencastify:](https://drive.google.com/file/d/1-o9vh5C7H1a9PjMOnPy7_n5n2KgIcCho/view?usp=sharing)
 
 - Application Screenshot:
 
@@ -63,10 +56,13 @@ Apache License
 This project is licensed under Apache License. Click [here](https://github.com/bundleofcodes/my-react-portfolio/blob/main/LICENSE)
 
 ## Tests:
-
+N/A
 
 ## Features:
-
+- About
+- Contact
+- Portfolio Projects
+- Resume
  
 ## Questions:
 
