@@ -36,10 +36,7 @@ A simple Portfolio template for developer/designers built with React, which is u
 
 - Application Screenshot:
 
-- ![Application Screenshot](/public/assets/screenshot-%20get%20all%20users.png) //edit this//
-- ![Application Screenshot](/public/assets/screenshot0%20user%20post.jpeg)
-- ![Application Screenshot](/public/assets/screenshot%20user%20post%20update.jpeg)
-- ![Application Screenshot](/public/assets/screenshot-delete%20user.png)
+- ![Application Screenshot](/src/components/assets/React-screenshot.jpeg)
 
 
 - [Click here to view the Repository URL:](https://github.com/bundleofcodes/my-react-portfolio)

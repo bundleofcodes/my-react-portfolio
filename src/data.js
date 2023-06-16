@@ -4,7 +4,7 @@ export const frontendPortfolio = [
     {
         id: 1,
         title: "The Posh Spot",
-        img: "",
+        img: "TheVault.png",
         url: "https://github.com/bundleofcodes/theposhspot",
     },
 
@@ -18,7 +18,7 @@ export const frontendPortfolio = [
     {
         id: 3,
         title: "My React Portfolio",
-        img: "",
+        img: "TheVault.png",
         url: "https://github.com/bundleofcodes/my-react-portfolio",
     },
 
@@ -54,13 +54,13 @@ export const fullstackPortfolio = [
     {
         id: 7,
         title: "Your Digital Personal Trainer",
-        img: "",
+        img: "GoForFitness.png",
         url: "https://github.com/JacobRyanWillis/The_Vault/blob/main/public/assets/website_screenshot.png",
     },
     {
         id: 8,
         title: "The Vault",
-        img: "",
+        img: "TheVault.png",
         url: "https://github.com/JacobRyanWillis/The_Vault",
     },
 
