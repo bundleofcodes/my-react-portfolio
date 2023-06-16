@@ -40,6 +40,7 @@ A simple Portfolio template for developer/designers built with React, which is u
 
 
 - [Click here to view the Repository URL:](https://github.com/bundleofcodes/my-react-portfolio)
+- [Click here to view the Deployed URL:](https://bundleofcodes.github.io/my-react-portfolio/)
 
 ## Credits:
 
