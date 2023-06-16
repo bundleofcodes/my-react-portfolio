@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.7ab15924.css",
+    "main.js": "/my-react-portfolio/static/js/main.39cff2ca.js",
+    "static/media/Raiya1.jpg": "/my-react-portfolio/static/media/Raiya1.517487fc2125f2c02bb4.jpg",
+    "static/media/RaiyaAYoung_CSS_Resume2023.pdf": "/my-react-portfolio/static/media/RaiyaAYoung_CSS_Resume2023.b778aeb990de1ba4b76b.pdf",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.7ab15924.css.map": "/my-react-portfolio/static/css/main.7ab15924.css.map",
+    "main.39cff2ca.js.map": "/my-react-portfolio/static/js/main.39cff2ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab15924.css",
+    "static/js/main.39cff2ca.js"
+  ]
+}
