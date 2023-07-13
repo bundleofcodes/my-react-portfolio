@@ -63,5 +63,11 @@ export const fullstackPortfolio = [
         img: "TheVault.png",
         url: "https://github.com/JacobRyanWillis/The_Vault",
     },
+    {
+        id: 9,
+        title: "QuackCraft 3D Printing",
+        img: "QuackCraft.png",
+        url: "https://github.com/Brandonk1023/QUACKCRAFT-3D-PRINTING",
+    },
 
 ]

@@ -46,7 +46,9 @@ A simple Portfolio template for developer/designers built with React, which is u
 
 - Raiya Young
 - Georgia Tech Coding Bootcamp
-- Andres Jimenez
+- Andres Jimenez (TA)
+- Youtube.com
+- Michelle Brinich
 
 ## License:
 
